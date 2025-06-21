@@ -1,6 +1,6 @@
 # Release Action
 
-This action will create a GitHub release and optionally upload an artifact to it.
+This action will create a GitHub release and optionally upload an artifact to it...
 
 <div align="center">
 <strong>
